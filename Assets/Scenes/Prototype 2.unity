@@ -497,7 +497,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animalPrefabs:
-  - {fileID: 23268780837950196, guid: 1170c8e51a858874e95c71d0cdbc1772, type: 3}
+  - {fileID: 3144360802190392779, guid: 4c9afaca85cc9f246a2d83f5a556d0b6, type: 3}
   - {fileID: 717521551629406383, guid: 2125207016faea04f9e539aae73e15df, type: 3}
   - {fileID: 8916428619031620320, guid: 3c42b0c21f5fc1740b6b95538b74fac8, type: 3}
 --- !u!4 &704504364
@@ -570,7 +570,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400046, guid: f8abbdd178867d2419ba9feb6ff2cba0, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400046, guid: f8abbdd178867d2419ba9feb6ff2cba0, type: 3}
       propertyPath: m_LocalPosition.z
@@ -708,4 +708,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   horizontalInput: 0
   speed: 10
-  ProjectilePrefab: {fileID: 4501224351071620446, guid: 415e48fb22b00cb4d85aeecbd3d1d2b4, type: 3}
+  ProjectilePrefab: {fileID: 593122043764229781, guid: 187ff739ad1ac4d45bbe1856bc54bdb0, type: 3}
